@@ -452,5 +452,4 @@ Recommendations and pull request are most welcome! Pull requests with tests are 
 
 ## Credits
 
-Originally inspired from [njbarrett's Laravel postgis package](https://github.com/njbarrett/laravel-postgis).
-
+Forked from [grimzy/laravel-mysql-spatial](https://github.com/grimzy/laravel-mysql-spatial).
